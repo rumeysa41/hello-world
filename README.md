@@ -1,2 +1,2 @@
 # hello-world
-github için helloworld deposu
+githup öğrenme
