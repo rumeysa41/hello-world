@@ -1,2 +1,4 @@
 # hello-world
-githup öğrenme
+
+Merhaba!
+ben Rümeysa SERT. github ı yeni kullanmaya başladım.
